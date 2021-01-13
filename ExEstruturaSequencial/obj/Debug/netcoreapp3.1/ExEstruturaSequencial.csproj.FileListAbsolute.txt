@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Logica de programação\Sequencial\ExEstruturaSequencial\ExEstruturaSequencial\bin\Debug\netcoreapp3.1\ExEstruturaSequencial.exe
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Logica de programação\Sequencial\ExEstruturaSequencial\ExEstruturaSequencial\bin\Debug\netcoreapp3.1\ExEstruturaSequencial.deps.json
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Logica de programação\Sequencial\ExEstruturaSequencial\ExEstruturaSequencial\bin\Debug\netcoreapp3.1\ExEstruturaSequencial.runtimeconfig.json
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Logica de programação\Sequencial\ExEstruturaSequencial\ExEstruturaSequencial\bin\Debug\netcoreapp3.1\ExEstruturaSequencial.runtimeconfig.dev.json
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Logica de programação\Sequencial\ExEstruturaSequencial\ExEstruturaSequencial\bin\Debug\netcoreapp3.1\ExEstruturaSequencial.dll
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Logica de programação\Sequencial\ExEstruturaSequencial\ExEstruturaSequencial\bin\Debug\netcoreapp3.1\ExEstruturaSequencial.pdb
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Logica de programação\Sequencial\ExEstruturaSequencial\ExEstruturaSequencial\obj\Debug\netcoreapp3.1\ExEstruturaSequencial.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Logica de programação\Sequencial\ExEstruturaSequencial\ExEstruturaSequencial\obj\Debug\netcoreapp3.1\ExEstruturaSequencial.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Logica de programação\Sequencial\ExEstruturaSequencial\ExEstruturaSequencial\obj\Debug\netcoreapp3.1\ExEstruturaSequencial.AssemblyInfo.cs
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Logica de programação\Sequencial\ExEstruturaSequencial\ExEstruturaSequencial\obj\Debug\netcoreapp3.1\ExEstruturaSequencial.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Logica de programação\Sequencial\ExEstruturaSequencial\ExEstruturaSequencial\obj\Debug\netcoreapp3.1\ExEstruturaSequencial.dll
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Logica de programação\Sequencial\ExEstruturaSequencial\ExEstruturaSequencial\obj\Debug\netcoreapp3.1\ExEstruturaSequencial.pdb
+C:\Users\User\Desktop\Uni9\c#\Exercicios\Logica de programação\Sequencial\ExEstruturaSequencial\ExEstruturaSequencial\obj\Debug\netcoreapp3.1\ExEstruturaSequencial.genruntimeconfig.cache
